@@ -1,5 +1,13 @@
-# Bijoy2Unicode
-for convert bijoy to unicode vise versa
+# Bijoy2Unicode — Bijoy ↔ Unicode Converter
 
+Convert Bangla text between Bijoy (legacy) and Unicode standards. Bridges legacy documents with modern web.
 
-[Click here to see Demo](https://bdlogicalerror.github.io/Bijoy2Unicode/)
+## ✨ Features
+- **Bijoy → Unicode** — Legacy to modern
+- **Unicode → Bijoy** — Modern to legacy  
+- **Client-side** — No server needed, open HTML in browser
+
+## 🎯 Why
+Millions of Bangla docs exist in proprietary Bijoy encoding. This tool makes them accessible everywhere.
+
+*Built by Mahmudul Hasan (bdlogicalerror) | 🇧🇩*
